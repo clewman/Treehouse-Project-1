@@ -204,3 +204,21 @@ a.social:hover {
   }
 
 }
+
+.hobbies {
+  width: 25em;
+}
+
+ul.hobbies {
+  padding: 0;
+  text-align: center;
+}
+
+.hobbies li {
+  border-radius: 6px;
+  display: inline-block;
+  background: pink;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
